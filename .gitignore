@@ -1,0 +1,5 @@
+*.xlsx
+
+!exemplo_final.xlsx
+
+auth.pass
